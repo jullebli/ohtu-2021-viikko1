@@ -19,7 +19,7 @@ public class Main {
         System.out.println("paljonkoMahtuu = " + olutta.paljonkoMahtuu());
 
         System.out.println("Mehusetterit:");
- System.out.println("Lisätään 50.7");
+        System.out.println("Lisätään 50.7");
        
     }
 /*
