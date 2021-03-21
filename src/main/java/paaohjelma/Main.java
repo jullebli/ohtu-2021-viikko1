@@ -20,6 +20,9 @@ public class Main {
 
         System.out.println("Mehusetterit:");
         System.out.println("Lisätään 50.7");
+       
+    }
+/*
         mehua.lisaaVarastoon(50.7);
         System.out.println("Mehuvarasto: " + mehua);
         System.out.println("Otetaan 3.14");
@@ -56,5 +59,5 @@ public class Main {
         saatiin = mehua.otaVarastosta(-32.9);
         System.out.println("saatiin " + saatiin);
         System.out.println("Mehuvarasto: " + mehua);
-    }
+*/
 }
